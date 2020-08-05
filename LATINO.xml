@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal 2 de Nicaragua (Televicentro)">
+    <display-name lang="es">Canal 2 de Nicaragua (Televicentro)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/2_de_nicaragua-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <display-name lang="es">Canal 2 de México (Canal Las Estrellas - XEW) </display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <display-name lang="es">Canal 13 de Nicaragua (Viva Nicaragua) </display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_nicaragua-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AMC (México)">
+    <display-name lang="es">Canal AMC (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Animal Planet (México)">
+    <display-name lang="es">Canal Animal Planet (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20200805010000 +0200" stop="20200805020000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20200805020000 +0200" stop="20200805030000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">Tv Noticias - Edicion Estelar</title>
+  </programme>
+  <programme start="20200805030000 +0200" stop="20200805040000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">Médicos Línea de Vida</title>
+  </programme>
+  <programme start="20200805040000 +0200" stop="20200805050000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">La reina soy yo</title>
+  </programme>
+  <programme start="20200805050000 +0200" stop="20200805060000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">Sin miedo a la verdad</title>
+  </programme>
+  <programme start="20200805060000 +0200" stop="20200805070000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">Tv noticias Edición Nocturna</title>
+  </programme>
+  <programme start="20200805070000 +0200" stop="20200805080000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20200805080000 +0200" stop="20200805140000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">Cierre</title>
+  </programme>
+  <programme start="20200805140000 +0200" stop="20200805143000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">CNN</title>
+  </programme>
+  <programme start="20200805143000 +0200" stop="20200805150000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">TV Noticias Edición matutina</title>
+  </programme>
+  <programme start="20200805150000 +0200" stop="20200805160000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">El Gordo y la Flaca</title>
+  </programme>
+  <programme start="20200805160000 +0200" stop="20200805170000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">Cambio de vida</title>
+  </programme>
+  <programme start="20200805170000 +0200" stop="20200805180000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20200805180000 +0200" stop="20200805190000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">A cada quien su santo</title>
+  </programme>
+  <programme start="20200805190000 +0200" stop="20200805200000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">La vida es una canción</title>
+  </programme>
+  <programme start="20200805200000 +0200" stop="20200805210000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">Top Model</title>
+  </programme>
+  <programme start="20200805210000 +0200" stop="20200805220000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">TV Noticias - Edición al mediodía</title>
+  </programme>
+  <programme start="20200805220000 +0200" stop="20200805230000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">Que pobres tan ricos</title>
+  </programme>
+  <programme start="20200805230000 +0200" stop="20200806000000 +0200" channel="Canal 2 de Nicaragua (Televicentro)">
+    <title lang="es">Esta historia me suena</title>
+  </programme>
+  <programme start="20200805003000 +0200" stop="20200805023000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200805023000 +0200" stop="20200805043000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200805043000 +0200" stop="20200805053000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">El dragón</title>
+  </programme>
+  <programme start="20200805053000 +0200" stop="20200805060000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20200805060000 +0200" stop="20200805063000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Simón dice</title>
+  </programme>
+  <programme start="20200805063000 +0200" stop="20200805070000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Contacto deportivo En Vivo</title>
+  </programme>
+  <programme start="20200805070000 +0200" stop="20200805080000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20200805080000 +0200" stop="20200805113000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200805113000 +0200" stop="20200805120000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200805120000 +0200" stop="20200805123000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20200805123000 +0200" stop="20200805130000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Farmacias de similares</title>
+  </programme>
+  <programme start="20200805130000 +0200" stop="20200805133000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20200805133000 +0200" stop="20200805150000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20200805150000 +0200" stop="20200805160000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20200805160000 +0200" stop="20200805190000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20200805190000 +0200" stop="20200805203000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20200805203000 +0200" stop="20200805213000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Minuto para ganar VIP</title>
+  </programme>
+  <programme start="20200805213000 +0200" stop="20200805233000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Corona de Lágrimas</title>
+  </programme>
+  <programme start="20200805233000 +0200" stop="20200806003000 +0200" channel="Canal 2 de México (Canal Las Estrellas - XEW) ">
+    <title lang="es">Destilando amor</title>
+  </programme>
+  <programme start="20200805010000 +0200" stop="20200805013000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">Lo que se vive - Edición estelar</title>
+  </programme>
+  <programme start="20200805013000 +0200" stop="20200805020000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">The Wonder Years</title>
+  </programme>
+  <programme start="20200805020000 +0200" stop="20200805040000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">El Diario de ana frank</title>
+  </programme>
+  <programme start="20200805040000 +0200" stop="20200805050000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">Señor y señora Smith</title>
+  </programme>
+  <programme start="20200805050000 +0200" stop="20200805080000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20200805080000 +0200" stop="20200805100000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">Cine del 13</title>
+  </programme>
+  <programme start="20200805100000 +0200" stop="20200805120000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">Cine del 13</title>
+  </programme>
+  <programme start="20200805120000 +0200" stop="20200805150000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">Música retro</title>
+  </programme>
+  <programme start="20200805150000 +0200" stop="20200805183000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">Viva la vida</title>
+  </programme>
+  <programme start="20200805183000 +0200" stop="20200805193000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20200805193000 +0200" stop="20200805200000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">The Wonder Years</title>
+  </programme>
+  <programme start="20200805200000 +0200" stop="20200805203000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">Lo que se vive - Primera edición</title>
+  </programme>
+  <programme start="20200805203000 +0200" stop="20200805210000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">Los fantásticos deportes 13 - Primera edición</title>
+  </programme>
+  <programme start="20200805210000 +0200" stop="20200805220000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20200805220000 +0200" stop="20200805222000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">Peppa</title>
+  </programme>
+  <programme start="20200805222000 +0200" stop="20200805224000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">Hora de aventura</title>
+  </programme>
+  <programme start="20200805224000 +0200" stop="20200805230000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20200805230000 +0200" stop="20200805233000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">Clarence</title>
+  </programme>
+  <programme start="20200805233000 +0200" stop="20200806000000 +0200" channel="Canal 13 de Nicaragua (Viva Nicaragua) ">
+    <title lang="es">Steven universe</title>
+  </programme>
+  <programme start="20200805002500 +0200" stop="20200805024500 +0200" channel="Canal AMC (México)">
+    <title lang="es">Hombre de Familia</title>
+  </programme>
+  <programme start="20200805024500 +0200" stop="20200805050000 +0200" channel="Canal AMC (México)">
+    <title lang="es">Desde mi cielo</title>
+  </programme>
+  <programme start="20200805050000 +0200" stop="20200805064000 +0200" channel="Canal AMC (México)">
+    <title lang="es">Amityville: El Despertar</title>
+  </programme>
+  <programme start="20200805064000 +0200" stop="20200805083500 +0200" channel="Canal AMC (México)">
+    <title lang="es">El descenso</title>
+  </programme>
+  <programme start="20200805083500 +0200" stop="20200805103000 +0200" channel="Canal AMC (México)">
+    <title lang="es">Drive: acción máxima velocidad</title>
+  </programme>
+  <programme start="20200805103000 +0200" stop="20200805120500 +0200" channel="Canal AMC (México)">
+    <title lang="es">Nadie Camina</title>
+  </programme>
+  <programme start="20200805120500 +0200" stop="20200805130500 +0200" channel="Canal AMC (México)">
+    <title lang="es">Fear The Walking Dead</title>
+  </programme>
+  <programme start="20200805130500 +0200" stop="20200805133500 +0200" channel="Canal AMC (México)">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20200805133500 +0200" stop="20200805140000 +0200" channel="Canal AMC (México)">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20200805140000 +0200" stop="20200805143000 +0200" channel="Canal AMC (México)">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20200805143000 +0200" stop="20200805150000 +0200" channel="Canal AMC (México)">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20200805150000 +0200" stop="20200805153000 +0200" channel="Canal AMC (México)">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20200805153000 +0200" stop="20200805160000 +0200" channel="Canal AMC (México)">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20200805160000 +0200" stop="20200805163000 +0200" channel="Canal AMC (México)">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20200805163000 +0200" stop="20200805170000 +0200" channel="Canal AMC (México)">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20200805170000 +0200" stop="20200805172500 +0200" channel="Canal AMC (México)">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20200805172500 +0200" stop="20200805180000 +0200" channel="Canal AMC (México)">
+    <title lang="es">Vivir Entre Fuegos</title>
+  </programme>
+  <programme start="20200805180000 +0200" stop="20200805191500 +0200" channel="Canal AMC (México)">
+    <title lang="es">NOS4A2 (Nosferatu)</title>
+  </programme>
+  <programme start="20200805191500 +0200" stop="20200805205000 +0200" channel="Canal AMC (México)">
+    <title lang="es">El gran casamiento</title>
+  </programme>
+  <programme start="20200805205000 +0200" stop="20200805223500 +0200" channel="Canal AMC (México)">
+    <title lang="es">La colonia</title>
+  </programme>
+  <programme start="20200805223500 +0200" stop="20200806003000 +0200" channel="Canal AMC (México)">
+    <title lang="es">Dos Armas Letales</title>
+  </programme>
+  <programme start="20200805000300 +0200" stop="20200805005500 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Wild Frank en India</title>
+  </programme>
+  <programme start="20200805005500 +0200" stop="20200805014700 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Wild Frank en India</title>
+  </programme>
+  <programme start="20200805014700 +0200" stop="20200805023900 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Pit bulls y convictos</title>
+  </programme>
+  <programme start="20200805023900 +0200" stop="20200805030500 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Misterios del mundo animal</title>
+  </programme>
+  <programme start="20200805030500 +0200" stop="20200805042400 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Wild Frank: Lobos</title>
+  </programme>
+  <programme start="20200805042400 +0200" stop="20200805045100 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Tierra brasileña</title>
+  </programme>
+  <programme start="20200805045100 +0200" stop="20200805051800 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Tierra brasileña</title>
+  </programme>
+  <programme start="20200805051800 +0200" stop="20200805062300 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Serengueti</title>
+  </programme>
+  <programme start="20200805062300 +0200" stop="20200805072800 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Serengueti</title>
+  </programme>
+  <programme start="20200805072800 +0200" stop="20200805083300 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Serengueti</title>
+  </programme>
+  <programme start="20200805083300 +0200" stop="20200805090000 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Misterios del mundo animal</title>
+  </programme>
+  <programme start="20200805090000 +0200" stop="20200805102000 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Wild Frank: Lobos</title>
+  </programme>
+  <programme start="20200805102000 +0200" stop="20200805113000 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Serengueti</title>
+  </programme>
+  <programme start="20200805113000 +0200" stop="20200805120000 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Tierra brasileña</title>
+  </programme>
+  <programme start="20200805120000 +0200" stop="20200805123000 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Tierra brasileña</title>
+  </programme>
+  <programme start="20200805123000 +0200" stop="20200805130000 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Los secretos del reino animal</title>
+  </programme>
+  <programme start="20200805130000 +0200" stop="20200805132800 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Los secretos del reino animal</title>
+  </programme>
+  <programme start="20200805132800 +0200" stop="20200805142100 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">El genio de las piscinas</title>
+  </programme>
+  <programme start="20200805142100 +0200" stop="20200805151400 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Con el agua al cuello</title>
+  </programme>
+  <programme start="20200805151400 +0200" stop="20200805160700 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">El cazador de cocodrilos</title>
+  </programme>
+  <programme start="20200805160700 +0200" stop="20200805170000 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Guardianes de Texas</title>
+  </programme>
+  <programme start="20200805170000 +0200" stop="20200805175300 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">La presa con Joel Lambert</title>
+  </programme>
+  <programme start="20200805175300 +0200" stop="20200805184600 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">La presa con Joel Lambert</title>
+  </programme>
+  <programme start="20200805184600 +0200" stop="20200805193900 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Con el agua al cuello</title>
+  </programme>
+  <programme start="20200805193900 +0200" stop="20200805212500 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Mansiones en los Árboles</title>
+  </programme>
+  <programme start="20200805212500 +0200" stop="20200805221800 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Los Irwin</title>
+  </programme>
+  <programme start="20200805221800 +0200" stop="20200805231100 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Dr. Jeff, veterinario</title>
+  </programme>
+  <programme start="20200805231100 +0200" stop="20200806000300 +0200" channel="Canal Animal Planet (México)">
+    <title lang="es">Pesca de gigantes</title>
+  </programme>
+</tv>
